@@ -965,7 +965,7 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "From Proto-Italic *ū̆skʷe, from Proto-Indo-European *úds-kʷe, from *úd-s (“out, outward”, genitive) + *-kʷe (“and”). Cognate with Sanskrit उच्चा (uccā́), Younger Avestan 𐬎𐬯𐬗𐬀 (usca, “up, out”), Russian вы- (vy-, “out from”), Proto-Germanic *ūt, English out.\nHowever, cf. Lewis & Short, which says: usquĕ, adv. [us- for ubs-, from ubi with locative s; and que for qued, old abl. of quis; v. Corss. Ausspr. 2, 471; 838; cf.: quisque, usquam]."
+                        "content": "From Proto-Italic *ū̆skʷe, from Proto-Indo-European *úds-kʷe, from *úd-s (“out, outward”, genitive) + *-kʷe (“and”). Cognate with Sanskrit उच्चा (uccā́), Younger Avestan 𐬎𐬯𐬗𐬀 (usca, “up, out”), Russian вы- (vy-, “out from”), Proto-Germanic *ūt, English out."
                       }
                     ]
                   }
@@ -1200,7 +1200,7 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "Perfect passive participle of regō (“to keep or lead straight, to guide”). Inherited from Proto-Italic *rektos, corresponding to Proto-Indo-European *h₃reǵtós (“having moved in a straight line”), from Proto-Indo-European *h₃reǵ- (“to straighten, direct”)."
+                        "content": "Etymology tree\nProto-Indo-European *h₃reǵ-\nProto-Indo-European *-tós\nProto-Indo-European *h₃reǵtós\nProto-Italic *rektos\nLatin rēctus\nPerfect passive participle of regō (“to keep or lead straight, to guide”). Inherited from Proto-Italic *rektos, corresponding to Proto-Indo-European *h₃reǵtós (“having moved in a straight line”), from Proto-Indo-European *h₃reǵ- (“to straighten, direct”). The vowel is long because of Lachmann's law."
                       }
                     ]
                   }
@@ -3109,7 +3109,7 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nLatin -ē\nLatin lentē\nFrom lentus (“slow”) + -ē."
+                        "content": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nProto-Italic *-ēd\nOld Latin -ēd\nLatin -ē\nLatin lentē\nFrom lentus (“slow”) + -ē."
                       }
                     ]
                   }

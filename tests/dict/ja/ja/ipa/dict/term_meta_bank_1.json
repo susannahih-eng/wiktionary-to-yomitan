@@ -1,54 +1,15 @@
 [
   [
-    "命令",
-    "ipa",
-    {
-      "reading": "めいれい",
-      "transcriptions": [
-        {
-          "ipa": "[me̞ːɾe̞ː]"
-        }
-      ]
-    }
-  ],
-  [
     "弁当",
     "ipa",
     {
       "reading": "べんとう",
       "transcriptions": [
         {
-          "ipa": "[bẽ̞nto̞ː]"
-        },
-        {
           "ipa": "/be~_onto~_o:/",
           "tags": [
             "XS"
           ]
-        }
-      ]
-    }
-  ],
-  [
-    "種種",
-    "ipa",
-    {
-      "reading": "しゅじゅ",
-      "transcriptions": [
-        {
-          "ipa": "[ɕɨᵝʑɨᵝ]"
-        }
-      ]
-    }
-  ],
-  [
-    "つけくわえる",
-    "ipa",
-    {
-      "reading": "つけくわえる",
-      "transcriptions": [
-        {
-          "ipa": "[t͡sɨᵝke̞kɯ̟ᵝɰᵝa̠e̞ɾɯ̟ᵝ]"
         }
       ]
     }

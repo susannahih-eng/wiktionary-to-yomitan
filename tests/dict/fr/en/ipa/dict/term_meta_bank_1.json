@@ -54,7 +54,16 @@
       "reading": "d'accord",
       "transcriptions": [
         {
-          "ipa": "/d‿a.kɔʁ/"
+          "ipa": "/da.kɔʁ/",
+          "tags": [
+            "🇪🇺"
+          ]
+        },
+        {
+          "ipa": "/da.kɑɔ̯ʁ/",
+          "tags": [
+            "🇨🇦"
+          ]
         }
       ]
     }

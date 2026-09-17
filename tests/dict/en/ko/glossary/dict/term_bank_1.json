@@ -30,7 +30,11 @@
                 },
                 {
                   "tag": "li",
-                  "content": "갖다 주다"
+                  "content": "가져다주다"
+                },
+                {
+                  "tag": "li",
+                  "content": "갖다주다"
                 }
               ]
             }

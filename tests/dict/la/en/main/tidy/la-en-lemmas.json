@@ -242,7 +242,7 @@
               ]
             }
           },
-          "etymology_text": "From Proto-Italic *ū̆skʷe, from Proto-Indo-European *úds-kʷe, from *úd-s (“out, outward”, genitive) + *-kʷe (“and”). Cognate with Sanskrit उच्चा (uccā́), Younger Avestan 𐬎𐬯𐬗𐬀 (usca, “up, out”), Russian вы- (vy-, “out from”), Proto-Germanic *ūt, English out.\nHowever, cf. Lewis & Short, which says: usquĕ, adv. [us- for ubs-, from ubi with locative s; and que for qued, old abl. of quis; v. Corss. Ausspr. 2, 471; 838; cf.: quisque, usquam].",
+          "etymology_text": "From Proto-Italic *ū̆skʷe, from Proto-Indo-European *úds-kʷe, from *úd-s (“out, outward”, genitive) + *-kʷe (“and”). Cognate with Sanskrit उच्चा (uccā́), Younger Avestan 𐬎𐬯𐬗𐬀 (usca, “up, out”), Russian вы- (vy-, “out from”), Proto-Germanic *ūt, English out.",
           "head_info_text": "usque (not comparable)",
           "wlink": "https://en.wiktionary.org/wiki/usque#Latin",
           "klink": "https://kaikki.org/dictionary/Latin/meaning/u/us/usque.html"
@@ -259,10 +259,7 @@
               "tags": [
                 "declension-1",
                 "declension-2",
-                "form-of",
-                "participle",
-                "passive",
-                "perfect"
+                "participle"
               ],
               "examples": [
                 {
@@ -276,10 +273,7 @@
               "tags": [
                 "declension-1",
                 "declension-2",
-                "form-of",
                 "participle",
-                "passive",
-                "perfect",
                 "usually"
               ]
             },
@@ -287,10 +281,7 @@
               "tags": [
                 "declension-1",
                 "declension-2",
-                "form-of",
-                "participle",
-                "passive",
-                "perfect"
+                "participle"
               ],
               "examples": [
                 {
@@ -301,7 +292,7 @@
               ]
             }
           },
-          "etymology_text": "Perfect passive participle of regō (“to keep or lead straight, to guide”). Inherited from Proto-Italic *rektos, corresponding to Proto-Indo-European *h₃reǵtós (“having moved in a straight line”), from Proto-Indo-European *h₃reǵ- (“to straighten, direct”).",
+          "etymology_text": "Etymology tree\nProto-Indo-European *h₃reǵ-\nProto-Indo-European *-tós\nProto-Indo-European *h₃reǵtós\nProto-Italic *rektos\nLatin rēctus\nPerfect passive participle of regō (“to keep or lead straight, to guide”). Inherited from Proto-Italic *rektos, corresponding to Proto-Indo-European *h₃reǵtós (“having moved in a straight line”), from Proto-Indo-European *h₃reǵ- (“to straighten, direct”). The vowel is long because of Lachmann's law.",
           "head_info_text": "rēctus (feminine rēcta, neuter rēctum, comparative rēctior, superlative rēctissimus, adverb rēctē); first/second-declension participle",
           "wlink": "https://en.wiktionary.org/wiki/rectus#Latin",
           "klink": "https://kaikki.org/dictionary/Latin/meaning/r/re/rectus.html"
@@ -760,7 +751,7 @@
               ]
             }
           },
-          "etymology_text": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nLatin -ē\nLatin lentē\nFrom lentus (“slow”) + -ē.",
+          "etymology_text": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nProto-Italic *-ēd\nOld Latin -ēd\nLatin -ē\nLatin lentē\nFrom lentus (“slow”) + -ē.",
           "head_info_text": "lentē (comparative lentius, superlative lentissimē)",
           "wlink": "https://en.wiktionary.org/wiki/lente#Latin",
           "klink": "https://kaikki.org/dictionary/Latin/meaning/l/le/lente.html"

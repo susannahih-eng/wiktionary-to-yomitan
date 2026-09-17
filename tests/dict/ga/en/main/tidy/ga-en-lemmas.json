@@ -4,7 +4,7 @@
       "noun": [
         {
           "gloss_tree": {
-            "basic knowledge; having basic competence in something (e.g. a skill or a language)": {
+            "basic knowledge, elementary knowledge; having basic competence in something (e.g. a skill or a language)": {
               "tags": [
                 "masculine"
               ],
@@ -16,6 +16,12 @@
                     [
                       3,
                       11
+                    ]
+                  ],
+                  "bold_translation_offsets": [
+                    [
+                      10,
+                      29
                     ]
                   ]
                 }

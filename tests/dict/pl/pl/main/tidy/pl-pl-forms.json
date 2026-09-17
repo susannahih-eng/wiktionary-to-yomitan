@@ -64,5 +64,615 @@
         ]
       ]
     }
+  },
+  "pobiec": {
+    "pobiegnę": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular future"
+        ]
+      ]
+    },
+    "pobiegniesz": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular future"
+        ]
+      ]
+    },
+    "pobiegnie": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular future"
+        ]
+      ]
+    },
+    "pobiegniemy": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural future"
+        ]
+      ]
+    },
+    "pobiegniecie": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural future"
+        ]
+      ]
+    },
+    "pobiegną": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural future"
+        ]
+      ]
+    },
+    "pobiegłem": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular past"
+        ]
+      ]
+    },
+    "pobiegłeś": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular past"
+        ]
+      ]
+    },
+    "pobiegł": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular past"
+        ]
+      ]
+    },
+    "pobiegliśmy": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural past"
+        ]
+      ]
+    },
+    "pobiegliście": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural past"
+        ]
+      ]
+    },
+    "pobiegli": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural past"
+        ]
+      ]
+    },
+    "pobiegłam": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular past"
+        ]
+      ]
+    },
+    "pobiegłaś": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular past"
+        ]
+      ]
+    },
+    "pobiegła": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular past"
+        ]
+      ]
+    },
+    "pobiegłyśmy": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural past"
+        ]
+      ]
+    },
+    "pobiegłyście": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural past"
+        ]
+      ]
+    },
+    "pobiegły": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural past"
+        ]
+      ]
+    },
+    "pobiegłom": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular past rare potential"
+        ]
+      ]
+    },
+    "pobiegłoś": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular past rare potential"
+        ]
+      ]
+    },
+    "pobiegło": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular past"
+        ]
+      ]
+    },
+    "niech pobiegnę": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular imperative"
+        ]
+      ]
+    },
+    "pobiegnij": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular imperative"
+        ]
+      ]
+    },
+    "niech pobiegnie": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular imperative"
+        ]
+      ]
+    },
+    "pobiegnijmy": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural imperative"
+        ]
+      ]
+    },
+    "pobiegnijcie": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural imperative"
+        ]
+      ]
+    },
+    "niech pobiegną": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural imperative"
+        ]
+      ]
+    },
+    "pobiegłszy": {
+      "verb": [
+        "extracted",
+        [
+          "first-person second-person third-person singular plural participle adverbial anterior"
+        ]
+      ]
+    },
+    "pobiegnięcie": {
+      "verb": [
+        "extracted",
+        [
+          "first-person second-person third-person singular plural gerund"
+        ]
+      ]
+    },
+    "niepobiegnięcie": {
+      "verb": [
+        "extracted",
+        [
+          "first-person second-person third-person singular plural gerund"
+        ]
+      ]
+    },
+    "pobiegłem był": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular pluperfect"
+        ]
+      ]
+    },
+    "pobiegłeś był": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular pluperfect"
+        ]
+      ]
+    },
+    "pobiegł był": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular pluperfect"
+        ]
+      ]
+    },
+    "pobiegliśmy byli": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural pluperfect"
+        ]
+      ]
+    },
+    "pobiegliście byli": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural pluperfect"
+        ]
+      ]
+    },
+    "pobiegli byli": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural pluperfect"
+        ]
+      ]
+    },
+    "pobiegłam była": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular pluperfect"
+        ]
+      ]
+    },
+    "pobiegłaś była": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular pluperfect"
+        ]
+      ]
+    },
+    "pobiegła była": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular pluperfect"
+        ]
+      ]
+    },
+    "pobiegłyśmy były": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural pluperfect"
+        ]
+      ]
+    },
+    "pobiegłyście były": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural pluperfect"
+        ]
+      ]
+    },
+    "pobiegły były": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural pluperfect"
+        ]
+      ]
+    },
+    "pobiegłom było": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular pluperfect rare potential"
+        ]
+      ]
+    },
+    "pobiegłoś było": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular pluperfect rare potential"
+        ]
+      ]
+    },
+    "pobiegło było": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular pluperfect"
+        ]
+      ]
+    },
+    "pobiegnięto": {
+      "verb": [
+        "extracted",
+        [
+          "first-person second-person third-person singular plural past impersonal"
+        ]
+      ]
+    },
+    "pobiegłbym": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular conditional"
+        ]
+      ]
+    },
+    "byłbym pobiegł": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular conditional"
+        ]
+      ]
+    },
+    "pobiegłbyś": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular conditional"
+        ]
+      ]
+    },
+    "byłbyś pobiegł": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular conditional"
+        ]
+      ]
+    },
+    "pobiegłby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular conditional"
+        ]
+      ]
+    },
+    "byłby pobiegł": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular conditional"
+        ]
+      ]
+    },
+    "pobieglibyśmy": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural conditional"
+        ]
+      ]
+    },
+    "bylibyśmy pobiegli": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural conditional"
+        ]
+      ]
+    },
+    "pobieglibyście": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural conditional"
+        ]
+      ]
+    },
+    "bylibyście pobiegli": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural conditional"
+        ]
+      ]
+    },
+    "pobiegliby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional"
+        ]
+      ]
+    },
+    "byliby pobiegli": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional"
+        ]
+      ]
+    },
+    "pobiegłabym": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular conditional"
+        ]
+      ]
+    },
+    "byłabym pobiegła": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular conditional"
+        ]
+      ]
+    },
+    "pobiegłabyś": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular conditional"
+        ]
+      ]
+    },
+    "byłabyś pobiegła": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular conditional"
+        ]
+      ]
+    },
+    "pobiegłaby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular conditional"
+        ]
+      ]
+    },
+    "byłaby pobiegła": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular conditional"
+        ]
+      ]
+    },
+    "pobiegłybyśmy": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural conditional"
+        ]
+      ]
+    },
+    "byłybyśmy pobiegły": {
+      "verb": [
+        "extracted",
+        [
+          "first-person plural conditional"
+        ]
+      ]
+    },
+    "pobiegłybyście": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural conditional"
+        ]
+      ]
+    },
+    "byłybyście pobiegły": {
+      "verb": [
+        "extracted",
+        [
+          "second-person plural conditional"
+        ]
+      ]
+    },
+    "pobiegłyby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional"
+        ]
+      ]
+    },
+    "byłyby pobiegły": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional"
+        ]
+      ]
+    },
+    "pobiegłobym": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular conditional rare potential"
+        ]
+      ]
+    },
+    "byłobym pobiegło": {
+      "verb": [
+        "extracted",
+        [
+          "first-person singular conditional rare potential"
+        ]
+      ]
+    },
+    "pobiegłobyś": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular conditional rare potential"
+        ]
+      ]
+    },
+    "byłobyś pobiegło": {
+      "verb": [
+        "extracted",
+        [
+          "second-person singular conditional rare potential"
+        ]
+      ]
+    },
+    "pobiegłoby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular conditional"
+        ]
+      ]
+    },
+    "byłoby pobiegło": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular conditional"
+        ]
+      ]
+    }
   }
 }

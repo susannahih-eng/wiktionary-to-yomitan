@@ -78,7 +78,7 @@
                   {
                     "tag": "div",
                     "content": [
-                      "basic knowledge; having basic competence in something (e.g. a skill or a language)",
+                      "basic knowledge, elementary knowledge; having basic competence in something (e.g. a skill or a language)",
                       {
                         "tag": "details",
                         "data": {
@@ -125,7 +125,17 @@
                                   "data": {
                                     "content": "example-sentence-b"
                                   },
-                                  "content": "She has a basic understanding of Irish."
+                                  "content": [
+                                    "She has a ",
+                                    {
+                                      "tag": "span",
+                                      "data": {
+                                        "content": "bold-text"
+                                      },
+                                      "content": "basic understanding"
+                                    },
+                                    " of Irish."
+                                  ]
                                 }
                               ]
                             }
