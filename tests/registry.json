@@ -3978,8 +3978,8 @@
           ],
           "categories": [
             "Czech deverbals",
-            "Czech entries referencing missing etymons",
             "Czech entries with etymology texts",
+            "Czech entries with etymology trees",
             "Czech entries with etymon",
             "Czech entries with incorrect language header",
             "Czech feminine nouns",
@@ -3991,6 +3991,7 @@
             "Pages using etymon with no ID",
             "Pages with 1 entry",
             "Pages with entries",
+            "Pages with etymology trees",
             "Pages with etymon",
             "cs:Communication"
           ],
@@ -4158,7 +4159,7 @@
               "word": "poselství"
             }
           ],
-          "etymology_text": "Deverbal from zpravit.",
+          "etymology_text": "Etymology tree\nProto-Slavic *jьz-\nOld Czech z-\nCzech z-\nCzech pravit\nCzech zpravitdeverb.\nCzech zpráva\nDeverbal from zpravit.",
           "etymology_templates": [
             {
               "name": "ety",
@@ -4169,7 +4170,7 @@
                 "text": "+",
                 "tree": "1"
               },
-              "expansion": "[Appendix:Glossary#deverbal|Deverbal]] from\", \"terms\" : [ { \"children\" : [ ], \"lang_name\" : \"Czech\", \"term\" : \"zpravit\", \"status\" : \"missing\", \"lang\" : \"cs\" } ], \"keyword\" : \"deverbal\" } ], \"lang_name\" : \"Czech\", \"term\" : \"zpráva\", \"status\" : \"ok\", \"lang\" : \"cs\" }\" data-lang=\"cs\" data-title=\"zpráva\">\nDeverbal from zpravit."
+              "expansion": "Etymology tree\nProto-Slavic *jьz-\nOld Czech z-\nCzech z-\nCzech pravit\nCzech zpravitdeverb.\nCzech zpráva\n[Appendix:Glossary#deverbal|Deverbal]] from\", \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ ], \"lang_name\" : \"Proto-Slavic\", \"term\" : \"*jьz-\", \"status\" : \"missing\", \"lang\" : \"sla-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Old Czech\", \"term\" : \"z-\", \"status\" : \"inline\", \"lang\" : \"zlw-ocs\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Czech\", \"term\" : \"z-\", \"status\" : \"ok\", \"lang\" : \"cs\" }, { \"children\" : [ ], \"lang_name\" : \"Czech\", \"term\" : \"pravit\", \"status\" : \"missing\", \"lang\" : \"cs\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"Czech\", \"term\" : \"zpravit\", \"status\" : \"ok\", \"lang\" : \"cs\" } ], \"keyword\" : \"deverbal\" } ], \"lang_name\" : \"Czech\", \"term\" : \"zpráva\", \"status\" : \"ok\", \"lang\" : \"cs\" }\" data-lang=\"cs\" data-title=\"zpráva\">\nDeverbal from zpravit."
             }
           ],
           "sounds": [
@@ -4271,7 +4272,7 @@
             "Czech terms inherited from Old Czech",
             "Czech terms inherited from Proto-Slavic",
             "Czech terms with IPA pronunciation",
-            "Pages with 26 entries",
+            "Pages with 27 entries",
             "Pages with entries"
           ],
           "etymology_number": "1",
@@ -4344,6 +4345,11 @@
               "audio": "Cs-pro.ogg",
               "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cs-pro.ogg",
               "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/Cs-pro.ogg/Cs-pro.ogg.mp3"
+            },
+            {
+              "audio": "LL-Q9056 (ces)-Anavaline-pro.wav",
+              "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q9056_%28ces%29-Anavaline-pro.wav/LL-Q9056_%28ces%29-Anavaline-pro.wav.ogg",
+              "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/LL-Q9056_%28ces%29-Anavaline-pro.wav/LL-Q9056_%28ces%29-Anavaline-pro.wav.mp3"
             }
           ]
         }
@@ -5610,6 +5616,7 @@
             "Czech imperfective verbs",
             "Czech irregular verbs",
             "Czech lemmas",
+            "Czech suppletive verbs",
             "Czech terms derived from Old Czech",
             "Czech terms derived from Proto-Balto-Slavic",
             "Czech terms derived from Proto-Indo-European",
@@ -6990,6 +6997,11 @@
               "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/Cs-b%C3%BDt.ogg/Cs-b%C3%BDt.ogg.mp3"
             },
             {
+              "audio": "LL-Q9056 (ces)-Ghost4Man-být.wav",
+              "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/LL-Q9056_%28ces%29-Ghost4Man-b%C3%BDt.wav/LL-Q9056_%28ces%29-Ghost4Man-b%C3%BDt.wav.ogg",
+              "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/LL-Q9056_%28ces%29-Ghost4Man-b%C3%BDt.wav/LL-Q9056_%28ces%29-Ghost4Man-b%C3%BDt.wav.mp3"
+            },
+            {
               "rhymes": "-iːt"
             },
             {
@@ -7016,17 +7028,27 @@
           "senses": [
             {
               "categories": [
+                "Czech entries with etymology texts",
+                "Czech entries with etymology trees",
+                "Czech entries with etymon",
                 "Czech entries with incorrect language header",
                 "Czech imperfective verbs",
                 "Czech irregular verbs",
                 "Czech lemmas",
                 "Czech negative verbs",
+                "Czech suppletive verbs",
+                "Czech terms derived from the Proto-Indo-European root *bʰuH-",
+                "Czech terms derived from the Proto-Indo-European root *h₁es-",
+                "Czech terms derived from the Proto-Indo-European word *né",
                 "Czech terms prefixed with ne-",
                 "Czech terms with IPA pronunciation",
                 "Czech terms with homophones",
                 "Czech verbs",
+                "Pages using etymon with no ID",
                 "Pages with 1 entry",
                 "Pages with entries",
+                "Pages with etymology trees",
+                "Pages with etymon",
                 "Rhymes:Czech/ɛbiːt",
                 "Rhymes:Czech/ɛbiːt/2 syllables"
               ],
@@ -7943,16 +7965,19 @@
               "word": "živobytí"
             }
           ],
-          "etymology_text": "From ne- + být.",
+          "etymology_text": "Etymology tree\nProto-Indo-European *né\nProto-Balto-Slavic *ne\nProto-Slavic *ne\nOld Czech ne\nCzech ne\nCzech ne-\nProto-Indo-European *bʰuH-\nProto-Indo-European *-t\nProto-Indo-European *bʰúHt\nProto-Indo-European *h₁es-\nProto-Indo-European *h₁ésti\nProto-Balto-Slavic *bū́ˀtei\nProto-Slavic *byti\nOld Czech býti\nCzech být\nCzech nebýt\nFrom ne- + být.",
           "etymology_templates": [
             {
-              "name": "prefix",
+              "name": "ety",
               "args": {
                 "1": "cs",
-                "2": "ne",
-                "3": "být"
+                "2": ":af",
+                "3": "ne-",
+                "4": "být",
+                "text": "+",
+                "tree": "1"
               },
-              "expansion": "ne- + být"
+              "expansion": "Etymology tree\nProto-Indo-European *né\nProto-Balto-Slavic *ne\nProto-Slavic *ne\nOld Czech ne\nCzech ne\nCzech ne-\nProto-Indo-European *bʰuH-\nProto-Indo-European *-t\nProto-Indo-European *bʰúHt\nProto-Indo-European *h₁es-\nProto-Indo-European *h₁ésti\nProto-Balto-Slavic *bū́ˀtei\nProto-Slavic *byti\nOld Czech býti\nCzech být\nCzech nebýt\n[Appendix:Glossary#inherited|Inherited]] from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Balto-Slavic\", \"term\" : \"*ne\", \"lang\" : \"ine-bsl-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Slavic\", \"term\" : \"*ne\", \"status\" : \"ok\", \"lang\" : \"sla-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Old Czech\", \"term\" : \"ne\", \"status\" : \"ok\", \"lang\" : \"zlw-ocs\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Czech\", \"term\" : \"ne\", \"status\" : \"ok\", \"lang\" : \"cs\" } ], \"keyword_label\" : \"From\", \"keyword\" : \"from\" } ], \"lang_name\" : \"Czech\", \"term\" : \"ne-\", \"status\" : \"ok\", \"lang\" : \"cs\" }, { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"id\" : \"to be\", \"children\" : [ { \"terms\" : [ { \"id\" : \"to be\", \"children\" : [ { \"terms\" : [ { \"id\" : \"become\", \"children\" : [ { \"terms\" : [ { \"id\" : \"be\", \"children\" : [ ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*bʰuH-\", \"lang\" : \"ine-pro\" }, { \"children\" : [ ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*-t\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*bʰúHt\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" }, { \"terms\" : [ { \"id\" : \"be\", \"children\" : [ { \"terms\" : [ { \"id\" : \"be\", \"children\" : [ ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*h₁es-\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"From\", \"keyword\" : \"from\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*h₁ésti\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Balto-Slavic\", \"term\" : \"*bū́ˀtei\", \"lang\" : \"ine-bsl-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Slavic\", \"term\" : \"*byti\", \"lang\" : \"sla-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Old Czech\", \"term\" : \"býti\", \"status\" : \"ok\", \"lang\" : \"zlw-ocs\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Czech\", \"term\" : \"být\", \"status\" : \"ok\", \"lang\" : \"cs\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"Czech\", \"term\" : \"nebýt\", \"status\" : \"ok\", \"lang\" : \"cs\" }\" data-lang=\"cs\" data-title=\"nebýt\">\nFrom ne- + být."
             }
           ],
           "sounds": [
@@ -32283,6 +32308,7 @@
             }
           ],
           "categories": [
+            "German entries with etymon",
             "German entries with incorrect language header",
             "German feminine nouns",
             "German lemmas",
@@ -32300,8 +32326,10 @@
             "German terms inherited from Proto-Germanic",
             "German terms inherited from Proto-Indo-European",
             "German terms inherited from Proto-West Germanic",
+            "Pages using etymon with no ID",
             "Pages with 4 entries",
             "Pages with entries",
+            "Pages with etymon",
             "Rhymes:German/ʊks",
             "Rhymes:German/ʊks/1 syllable",
             "de:Canids",
@@ -32687,6 +32715,15 @@
           "etymology_number": "1",
           "etymology_text": "From Middle High German vuhs, from Old High German fuhs, from Proto-West Germanic *fuhs, from Proto-Germanic *fuhsaz, from Proto-Indo-European *púḱsos (“the tailed one”), from *puḱ- (“tail”). Cognate with English fox, Sanskrit पुच्छ (púccha).",
           "etymology_templates": [
+            {
+              "name": "etymon",
+              "args": {
+                "1": "de",
+                "2": ":inh",
+                "3": "gmh:vuhs"
+              },
+              "expansion": "[Appendix:Glossary#inherited|Inherited]] from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Germanic\", \"term\" : \"*fuhsaz\", \"status\" : \"ok\", \"lang\" : \"gem-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-West Germanic\", \"term\" : \"*fuhs\", \"status\" : \"ok\", \"lang\" : \"gmw-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Old High German\", \"term\" : \"vuhs\", \"status\" : \"inline\", \"lang\" : \"goh\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Middle High German\", \"term\" : \"vuhs\", \"status\" : \"ok\", \"lang\" : \"gmh\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"German\", \"term\" : \"Fuchs\", \"status\" : \"ok\", \"lang\" : \"de\" }\" data-lang=\"de\" data-title=\"Fuchs\">"
+            },
             {
               "name": "inh",
               "args": {
@@ -33192,6 +33229,31 @@
                 "1": "de",
                 "2": "ine-pro",
                 "3": "*ḱerd-"
+              },
+              "expansion": ""
+            },
+            {
+              "name": "dercat",
+              "args": {
+                "1": "de",
+                "2": "ine-pro"
+              },
+              "expansion": ""
+            },
+            {
+              "name": "langname",
+              "args": {
+                "1": "ine-pro"
+              },
+              "expansion": "Proto-Indo-European"
+            },
+            {
+              "name": "word",
+              "args": {
+                "1": "de",
+                "2": "ine",
+                "3": "ḱḗr",
+                "id": ""
               },
               "expansion": ""
             },
@@ -40706,6 +40768,7 @@
             "Terms with Bulgarian translations",
             "Terms with Burmese translations",
             "Terms with Catalan translations",
+            "Terms with Cebuano translations",
             "Terms with Chadian Arabic translations",
             "Terms with Cherokee translations",
             "Terms with Chichewa translations",
@@ -41543,6 +41606,13 @@
               "word": "portar"
             },
             {
+              "lang": "Cebuano",
+              "code": "ceb",
+              "lang_code": "ceb",
+              "sense": "to transport toward somebody/somewhere",
+              "word": "dalaon"
+            },
+            {
               "lang": "Cherokee",
               "code": "chr",
               "lang_code": "chr",
@@ -42140,8 +42210,16 @@
               "code": "ko",
               "lang_code": "ko",
               "sense": "to transport toward somebody/somewhere",
-              "roman": "gatda juda",
-              "word": "갖다 주다"
+              "roman": "gajeodajuda",
+              "word": "가져다주다"
+            },
+            {
+              "lang": "Korean",
+              "code": "ko",
+              "lang_code": "ko",
+              "sense": "to transport toward somebody/somewhere",
+              "roman": "gatdajuda",
+              "word": "갖다주다"
             },
             {
               "lang": "Northern Kurdish",
@@ -43881,6 +43959,12 @@
           ],
           "derived": [
             {
+              "word": "bridewain"
+            },
+            {
+              "word": "cartwain"
+            },
+            {
               "word": "Charles' Wain"
             },
             {
@@ -43891,6 +43975,21 @@
             },
             {
               "word": "horse-wain"
+            },
+            {
+              "word": "wainage"
+            },
+            {
+              "word": "wainbote"
+            },
+            {
+              "word": "wainful"
+            },
+            {
+              "word": "wainman"
+            },
+            {
+              "word": "wainrope"
             },
             {
               "word": "wainwright"
@@ -44415,6 +44514,7 @@
             "Terms with Nahuatl translations",
             "Terms with Navajo translations",
             "Terms with Nivkh translations",
+            "Terms with Northern Kurdish translations",
             "Terms with Norwegian Bokmål translations",
             "Terms with Norwegian Nynorsk translations",
             "Terms with Occitan translations",
@@ -45299,6 +45399,13 @@
               "sense": "bird of the genus Falco",
               "roman": "baz",
               "word": "باز"
+            },
+            {
+              "lang": "Northern Kurdish",
+              "code": "kmr",
+              "lang_code": "kmr",
+              "sense": "bird of the genus Falco",
+              "word": "şahîn"
             },
             {
               "lang": "Kyrgyz",
@@ -46453,6 +46560,7 @@
             "Terms with Nahuatl translations",
             "Terms with Navajo translations",
             "Terms with Nivkh translations",
+            "Terms with Northern Kurdish translations",
             "Terms with Norwegian Bokmål translations",
             "Terms with Norwegian Nynorsk translations",
             "Terms with Occitan translations",
@@ -56919,6 +57027,78 @@
             }
           ]
         }
+      },
+      {
+        "url": "https://kaikki.org/eswiktionary/All%20languages%20combined/meaning/r/re/revelada.html",
+        "download_url": "https://kaikki.org/eswiktionary/All%20languages%20combined/meaning/r/re/revelada.jsonl",
+        "json": {
+          "word": "revelada",
+          "pos": "adj",
+          "pos_title": "Forma adjetiva",
+          "lang_code": "es",
+          "lang": "Español",
+          "senses": [
+            {
+              "glosses": [
+                "Forma del femenino singular de revelado."
+              ],
+              "tags": [
+                "adjective",
+                "form-of"
+              ],
+              "categories": [
+                "ES:Formas adjetivas en femenino",
+                "ES:Formas adjetivas en singular"
+              ],
+              "sense_index": "1",
+              "form_of": [
+                {
+                  "word": "revelado"
+                }
+              ]
+            }
+          ],
+          "categories": [
+            "ES:Palabras llanas",
+            "ES:Palabras tetrasílabas",
+            "ES:Rimas:a.da",
+            "Español"
+          ],
+          "sounds": [
+            {
+              "ipa": "[reβ̞eˈlað̞a]"
+            },
+            {
+              "raw_tags": [
+                "acentuación"
+              ],
+              "other": "llana"
+            },
+            {
+              "raw_tags": [
+                "longitud silábica"
+              ],
+              "other": "tetrasílaba"
+            },
+            {
+              "rhymes": "a.da"
+            }
+          ],
+          "tags": [
+            "adjectival",
+            "form-of"
+          ],
+          "hyphenations": [
+            {
+              "parts": [
+                "re",
+                "ve",
+                "la",
+                "da"
+              ]
+            }
+          ]
+        }
       }
     ]
   },
@@ -66156,6 +66336,13 @@
               "word": "reprendre"
             }
           ],
+          "descendants": [
+            {
+              "lang": "Mauritian Creole",
+              "lang_code": "mfe",
+              "word": "pran"
+            }
+          ],
           "etymology_text": "Inherited from Middle French prendre, from Old French prendre, prandre, from Latin prēndere, alternative form of prehendere (“to seize”), from prae- (“before”) + *hendō (“to take, seize”) (not attested without prefix), from Proto-Indo-European *gʰed-.",
           "etymology_templates": [
             {
@@ -67393,7 +67580,7 @@
                 "3": "dé-",
                 "4": "marche"
               },
-              "expansion": "[Appendix:Glossary#inherited|Inherited]] from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Italic\", \"term\" : \"*dis-\", \"status\" : \"inline\", \"lang\" : \"itc-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Latin\", \"term\" : \"dis-\", \"lang\" : \"la\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Old French\", \"term\" : \"des-\", \"lang\" : \"fro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Middle French\", \"term\" : \"des-\", \"status\" : \"ok\", \"lang\" : \"frm\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" }, { \"keyword_abbrev\" : \"lbor.\", \"keyword_label\" : \"Learned borrowing from\", \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"id\" : \"of\", \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*de\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" }, { \"children\" : [ ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*-h₁\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*déh₁\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Italic\", \"term\" : \"*dē\", \"status\" : \"inline\", \"lang\" : \"itc-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Latin\", \"term\" : \"dē\", \"lang\" : \"la\" } ], \"keyword_label\" : \"From\", \"keyword\" : \"from\" } ], \"lang_name\" : \"Latin\", \"term\" : \"dē-\", \"status\" : \"ok\", \"lang\" : \"la\" } ], \"keyword\" : \"lbor\" } ], \"lang_name\" : \"French\", \"term\" : \"dé-\", \"status\" : \"ok\", \"lang\" : \"fr\" }, { \"children\" : [ ], \"lang_name\" : \"French\", \"term\" : \"marche\", \"status\" : \"missing\", \"lang\" : \"fr\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"French\", \"term\" : \"démarche\", \"status\" : \"ok\", \"lang\" : \"fr\" }\" data-lang=\"fr\" data-title=\"démarche\">"
+              "expansion": "[Appendix:Glossary#contamination|Influenced by]]\", \"terms\" : [ { \"children\" : [ ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*trís\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" } ], \"keyword\" : \"influence\" } ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*dwís\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Italic\", \"term\" : \"*dis-\", \"status\" : \"inline\", \"lang\" : \"itc-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Latin\", \"term\" : \"dis-\", \"lang\" : \"la\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Old French\", \"term\" : \"des-\", \"lang\" : \"fro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Middle French\", \"term\" : \"des-\", \"status\" : \"ok\", \"lang\" : \"frm\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" }, { \"keyword_abbrev\" : \"lbor.\", \"keyword_label\" : \"Learned borrowing from\", \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"id\" : \"of\", \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*de\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" }, { \"children\" : [ ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*-h₁\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*déh₁\", \"status\" : \"ok\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Italic\", \"term\" : \"*dē\", \"status\" : \"inline\", \"lang\" : \"itc-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Latin\", \"term\" : \"dē\", \"lang\" : \"la\" } ], \"keyword_label\" : \"From\", \"keyword\" : \"from\" } ], \"lang_name\" : \"Latin\", \"term\" : \"dē-\", \"status\" : \"ok\", \"lang\" : \"la\" } ], \"keyword\" : \"lbor\" } ], \"lang_name\" : \"French\", \"term\" : \"dé-\", \"status\" : \"ok\", \"lang\" : \"fr\" }, { \"children\" : [ ], \"lang_name\" : \"French\", \"term\" : \"marche\", \"status\" : \"missing\", \"lang\" : \"fr\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"French\", \"term\" : \"démarche\", \"status\" : \"ok\", \"lang\" : \"fr\" }\" data-lang=\"fr\" data-title=\"démarche\">"
             },
             {
               "name": "af",
@@ -67981,7 +68168,6 @@
             "French entries with incorrect language header",
             "French interjections",
             "French lemmas",
-            "French terms with IPA pronunciation",
             "Pages with 4 entries",
             "Pages with entries"
           ],
@@ -68011,6 +68197,14 @@
               ]
             },
             {
+              "lang": "Antillean Creole",
+              "lang_code": "gcf",
+              "word": "dakò",
+              "raw_tags": [
+                "borrowed"
+              ]
+            },
+            {
               "lang": "German",
               "lang_code": "de",
               "word": "d'accord",
@@ -68021,7 +68215,10 @@
             {
               "lang": "Haitian Creole",
               "lang_code": "ht",
-              "word": "dakò"
+              "word": "dakò",
+              "raw_tags": [
+                "borrowed"
+              ]
             },
             {
               "lang": "Italian",
@@ -68061,7 +68258,16 @@
           ],
           "sounds": [
             {
-              "ipa": "/d‿a.kɔʁ/"
+              "tags": [
+                "Europe"
+              ],
+              "ipa": "/da.kɔʁ/"
+            },
+            {
+              "tags": [
+                "Canada"
+              ],
+              "ipa": "/da.kɑɔ̯ʁ/"
             },
             {
               "audio": "Fr-d’accord.ogg",
@@ -73111,6 +73317,10 @@
               "word": "manger du nègre"
             },
             {
+              "word": "manger du sable",
+              "sense": "Marine"
+            },
+            {
               "word": "manger en juif"
             },
             {
@@ -73696,19 +73906,43 @@
                   ],
                   "translation": "She has a basic understanding of Irish.",
                   "english": "She has a basic understanding of Irish.",
+                  "bold_translation_offsets": [
+                    [
+                      10,
+                      29
+                    ]
+                  ],
                   "type": "example"
                 }
               ],
+              "links": [
+                [
+                  "basic",
+                  "basic"
+                ],
+                [
+                  "knowledge",
+                  "knowledge"
+                ],
+                [
+                  "elementary",
+                  "elementary"
+                ],
+                [
+                  "competence",
+                  "competence"
+                ]
+              ],
               "glosses": [
-                "basic knowledge; having basic competence in something (e.g. a skill or a language)"
+                "basic knowledge, elementary knowledge; having basic competence in something (e.g. a skill or a language)"
               ],
               "categories": [
-                "Irish compound terms",
                 "Irish entries with incorrect language header",
                 "Irish first-declension nouns",
                 "Irish lemmas",
                 "Irish masculine nouns",
                 "Irish nouns",
+                "Irish terms prefixed with bun-",
                 "Irish terms with usage examples",
                 "Pages with 1 entry",
                 "Pages with entries"
@@ -73726,7 +73960,7 @@
                 "2": "noun",
                 "cat2": "",
                 "head": "",
-                "altform": "",
+                "var": "",
                 "g": "m",
                 "g2": "",
                 "g3": "",
@@ -73926,10 +74160,10 @@
           "etymology_text": "From bun- + eolas.",
           "etymology_templates": [
             {
-              "name": "compound",
+              "name": "prefix",
               "args": {
                 "1": "ga",
-                "2": "bun-",
+                "2": "bun",
                 "3": "eolas"
               },
               "expansion": "bun- + eolas"
@@ -74004,7 +74238,7 @@
                 "2": "noun",
                 "cat2": "",
                 "head": "",
-                "altform": "",
+                "var": "",
                 "g": "m",
                 "g2": "",
                 "g3": "",
@@ -85180,6 +85414,7 @@
               "categories": [
                 "Japanese links with redundant wikilinks",
                 "Japanese terms with non-redundant non-automated sortkeys",
+                "Japanese terms with quotations",
                 "Japanese terms with redundant script codes",
                 "Japanese terms with usage examples"
               ],
@@ -86696,19 +86931,6 @@
               ]
             }
           ],
-          "sounds": [
-            {
-              "tags": [
-                "Heiban",
-                "Tokyo"
-              ],
-              "other": "めーれー",
-              "roman": "[mèéréé]"
-            },
-            {
-              "ipa": "[me̞ːɾe̞ː]"
-            }
-          ],
           "translations": [
             {
               "lang_code": "en",
@@ -87081,17 +87303,6 @@
             }
           ],
           "sounds": [
-            {
-              "tags": [
-                "Nakadaka",
-                "Tokyo"
-              ],
-              "other": "べんとー",
-              "roman": "[bèńtóꜜò]"
-            },
-            {
-              "ipa": "[bẽ̞nto̞ː]"
-            },
             {
               "ipa": "/be~_onto~_o:/",
               "tags": [
@@ -87964,17 +88175,6 @@
             {
               "tags": [
                 "Atamadaka",
-                "Tokyo"
-              ],
-              "other": "しゅじゅ",
-              "roman": "[shúꜜjù]"
-            },
-            {
-              "ipa": "[ɕɨᵝʑɨᵝ]"
-            },
-            {
-              "tags": [
-                "Atamadaka",
                 "Kyoto",
                 "Osaka"
               ],
@@ -88201,25 +88401,6 @@
             }
           ],
           "sounds": [
-            {
-              "tags": [
-                "Nakadaka",
-                "Tokyo"
-              ],
-              "other": "つけくわえる",
-              "roman": "[tsùkékúwáéꜜrù]"
-            },
-            {
-              "tags": [
-                "Heiban",
-                "Tokyo"
-              ],
-              "other": "つけくわえる",
-              "roman": "[tsùkékúwáérú]"
-            },
-            {
-              "ipa": "[t͡sɨᵝke̞kɯ̟ᵝɰᵝa̠e̞ɾɯ̟ᵝ]"
-            },
             {
               "tags": [
                 "Heiban",
@@ -89104,19 +89285,33 @@
               "categories": [
                 "Chinese Korean",
                 "Japanese Korean",
+                "Korean entries with etymology trees",
+                "Korean entries with etymon",
                 "Korean entries with incorrect language header",
                 "Korean lemmas",
                 "Korean orthographic borrowings from Japanese",
                 "Korean proper nouns",
                 "Korean terms borrowed from Japanese",
                 "Korean terms derived from Dutch",
+                "Korean terms derived from German",
                 "Korean terms derived from Japanese",
+                "Korean terms derived from Middle Dutch",
+                "Korean terms derived from Middle High German",
+                "Korean terms derived from Old Dutch",
+                "Korean terms derived from Old High German",
+                "Korean terms derived from Proto-Germanic",
+                "Korean terms derived from Proto-Indo-European",
+                "Korean terms derived from Proto-West Germanic",
+                "Korean terms derived from the Proto-Indo-European word *tewtéh₂",
                 "Korean terms with IPA pronunciation",
                 "Korean terms with non-redundant manual transliterations",
                 "Korean terms with redundant script codes",
                 "Koryo-mar",
+                "Pages using etymon with no ID",
                 "Pages with 1 entry",
                 "Pages with entries",
+                "Pages with etymology trees",
+                "Pages with etymon",
                 "Sino-Korean words",
                 "South Korean",
                 "ko:Countries in Europe",
@@ -89183,8 +89378,18 @@
               ]
             }
           ],
-          "etymology_text": "Sino-Korean word from 獨逸, an orthographic borrowing from Japanese 獨逸 (Doitsu, “Germany”), from Dutch Duits (“German”).",
+          "etymology_text": "Etymology tree\nProto-Indo-European *tewtéh₂\nProto-Germanic *þeudō\nProto-Indo-European *-iskos\nProto-Germanic *-iskaz\nProto-Germanic *þiudiskaz\nProto-West Germanic *þiudisk\nOld Dutch *thiudisc\nMiddle Dutch dietsch\nMiddle Dutch duutsch\nDutch Duitsder.\n▲\nProto-West Germanic *þiudisk\nOld High German diutisk\nMiddle High German diutsch\nGerman deutsch\nGerman Deutschder.\nJapanese 獨逸 (Doitsu)obor.\nKorean 독일\nSino-Korean word from 獨逸, an orthographic borrowing from Japanese 獨逸 (Doitsu, “Germany”), from Dutch Duits (“German”).",
           "etymology_templates": [
+            {
+              "name": "ety",
+              "args": {
+                "1": "ko",
+                "2": ":obor",
+                "3": "ja:ドイツ<alt:獨逸>",
+                "tree": "1"
+              },
+              "expansion": "Etymology tree\nProto-Indo-European *tewtéh₂\nProto-Germanic *þeudō\nProto-Indo-European *-iskos\nProto-Germanic *-iskaz\nProto-Germanic *þiudiskaz\nProto-West Germanic *þiudisk\nOld Dutch *thiudisc\nMiddle Dutch dietsch\nMiddle Dutch duutsch\nDutch Duitsder.\n▲\nProto-West Germanic *þiudisk\nOld High German diutisk\nMiddle High German diutsch\nGerman deutsch\nGerman Deutschder.\nJapanese 獨逸 (Doitsu)obor.\nKorean 독일\n[Appendix:Glossary#orthographic_borrowing|Orthographic borrowing]] from\", \"terms\" : [ { \"alt\" : \"獨逸\", \"transliteration\" : \"Doitsu\", \"children\" : [ { \"keyword_abbrev\" : \"der.\", \"keyword_label\" : \"Derived from\", \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"id\" : \"popular\", \"children\" : [ { \"terms\" : [ { \"id\" : \"popular\", \"children\" : [ { \"terms\" : [ { \"id\" : \"people\", \"children\" : [ { \"terms\" : [ { \"id\" : \"people\", \"children\" : [ ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*tewtéh₂\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Germanic\", \"term\" : \"*þeudō\", \"lang\" : \"gem-pro\" }, { \"id\" : \"pertaining to\", \"children\" : [ { \"terms\" : [ { \"id\" : \"pertaining to\", \"children\" : [ ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*-iskos\", \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Germanic\", \"term\" : \"*-iskaz\", \"lang\" : \"gem-pro\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Germanic\", \"term\" : \"*þiudiskaz\", \"lang\" : \"gem-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Proto-West Germanic\", \"term\" : \"*þiudisk\", \"lang\" : \"gmw-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Old Dutch\", \"term\" : \"*thiudisc\", \"status\" : \"ok\", \"lang\" : \"odt\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Middle Dutch\", \"term\" : \"dietsch\", \"status\" : \"ok\", \"lang\" : \"dum\" } ], \"keyword_label\" : \"From\", \"keyword\" : \"from\" } ], \"lang_name\" : \"Middle Dutch\", \"term\" : \"duutsch\", \"status\" : \"inline\", \"lang\" : \"dum\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Dutch\", \"term\" : \"Duits\", \"status\" : \"ok\", \"lang\" : \"nl\" } ], \"keyword\" : \"derived\" }, { \"keyword_abbrev\" : \"der.\", \"keyword_label\" : \"Derived from\", \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"is_duplicate\" : true, \"children\" : [ ], \"id\" : \"popular\", \"status\" : { \"1\" : \"gmw-pro\", \"2\" : \":inh\", \"3\" : \"gem-pro:*þiudiskaz<id:popular>\", \"id\" : \"popular\" }, \"lang_name\" : \"Proto-West Germanic\", \"term\" : \"*þiudisk\", \"lang\" : \"gmw-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Old High German\", \"term\" : \"diutisk\", \"status\" : \"ok\", \"lang\" : \"goh\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Middle High German\", \"term\" : \"diutsch\", \"status\" : \"inline\", \"lang\" : \"gmh\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"German\", \"term\" : \"deutsch\", \"status\" : \"ok\", \"lang\" : \"de\" } ], \"keyword_label\" : \"From\", \"keyword\" : \"from\" } ], \"lang_name\" : \"German\", \"term\" : \"Deutsch\", \"status\" : \"ok\", \"lang\" : \"de\" } ], \"keyword\" : \"derived\" } ], \"lang_name\" : \"Japanese\", \"term\" : \"ドイツ\", \"status\" : \"ok\", \"lang\" : \"ja\" } ], \"keyword\" : \"obor\" } ], \"lang_name\" : \"Korean\", \"term\" : \"독일\", \"status\" : \"ok\", \"lang\" : \"ko\" }\" data-lang=\"ko\" data-title=\"독일\">"
+            },
             {
               "name": "etymid",
               "args": {
@@ -91584,6 +91789,7 @@
           ],
           "categories": [
             "Latin 2-syllable words",
+            "Latin entries with etymon",
             "Latin entries with incorrect language header",
             "Latin feminine nouns",
             "Latin feminine nouns in the first declension",
@@ -91595,10 +91801,13 @@
             "Latin terms derived from Proto-Indo-European",
             "Latin terms derived from Proto-Italic",
             "Latin terms derived from the Proto-Indo-European root *bʰeh₂- (speak)",
+            "Latin terms inherited from Proto-Indo-European",
             "Latin terms inherited from Proto-Italic",
             "Latin terms with IPA pronunciation",
+            "Pages using etymon with no ID",
             "Pages with 10 entries",
-            "Pages with entries"
+            "Pages with entries",
+            "Pages with etymon"
           ],
           "forms": [
             {
@@ -91905,14 +92114,14 @@
           "etymology_text": "From Proto-Italic *fāmā, from Proto-Indo-European *bʰéh₂meh₂, from *bʰeh₂- (“to speak”). Cognate to Ancient Greek φήμη (phḗmē, “talk”).",
           "etymology_templates": [
             {
-              "name": "root",
+              "name": "ety",
               "args": {
                 "1": "la",
-                "2": "ine-pro",
-                "3": "*bʰeh₂-",
-                "id": "speak"
+                "title": "fāma",
+                "2": ":inh",
+                "3": "itc-pro:*fāmā"
               },
-              "expansion": ""
+              "expansion": "[Appendix:Glossary#derived_terms|Derived]] from\", \"terms\" : [ { \"id\" : \"speak\", \"children\" : [ ], \"status\" : \"ok\", \"lang_name\" : \"Proto-Indo-European\", \"term\" : \"*bʰeh₂-\", \"lang\" : \"ine-pro\" } ], \"keyword\" : \"derived\" } ], \"lang\" : \"ine-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Italic\", \"term\" : \"*fāmā\", \"status\" : \"ok\", \"lang\" : \"itc-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Latin\", \"term\" : \"fāma\", \"status\" : \"ok\", \"lang\" : \"la\" }\" data-lang=\"la\" data-title=\"fāma\">"
             },
             {
               "name": "inh",
@@ -96597,7 +96806,8 @@
             "Latin uncomparable adverbs",
             "Pages with 2 entries",
             "Pages with entries",
-            "Requests for date"
+            "Requests for date",
+            "Requests for date in Undetermined entries"
           ],
           "derived": [
             {
@@ -96616,7 +96826,7 @@
               "word": "usquequāque"
             }
           ],
-          "etymology_text": "From Proto-Italic *ū̆skʷe, from Proto-Indo-European *úds-kʷe, from *úd-s (“out, outward”, genitive) + *-kʷe (“and”). Cognate with Sanskrit उच्चा (uccā́), Younger Avestan 𐬎𐬯𐬗𐬀 (usca, “up, out”), Russian вы- (vy-, “out from”), Proto-Germanic *ūt, English out.\nHowever, cf. Lewis & Short, which says: usquĕ, adv. [us- for ubs-, from ubi with locative s; and que for qued, old abl. of quis; v. Corss. Ausspr. 2, 471; 838; cf.: quisque, usquam].",
+          "etymology_text": "From Proto-Italic *ū̆skʷe, from Proto-Indo-European *úds-kʷe, from *úd-s (“out, outward”, genitive) + *-kʷe (“and”). Cognate with Sanskrit उच्चा (uccā́), Younger Avestan 𐬎𐬯𐬗𐬀 (usca, “up, out”), Russian вы- (vy-, “out from”), Proto-Germanic *ūt, English out.",
           "etymology_templates": [
             {
               "name": "root",
@@ -96771,16 +96981,7 @@
               "tags": [
                 "declension-1",
                 "declension-2",
-                "form-of",
-                "participle",
-                "passive",
-                "perfect"
-              ],
-              "form_of": [
-                {
-                  "word": "regō",
-                  "extra": "to keep or lead straight, to guide"
-                }
+                "participle"
               ]
             },
             {
@@ -96815,17 +97016,8 @@
               "tags": [
                 "declension-1",
                 "declension-2",
-                "form-of",
                 "participle",
-                "passive",
-                "perfect",
                 "usually"
-              ],
-              "form_of": [
-                {
-                  "word": "regō",
-                  "extra": "to keep or lead straight, to guide"
-                }
               ]
             },
             {
@@ -96900,16 +97092,7 @@
               "tags": [
                 "declension-1",
                 "declension-2",
-                "form-of",
-                "participle",
-                "passive",
-                "perfect"
-              ],
-              "form_of": [
-                {
-                  "word": "regō",
-                  "extra": "to keep or lead straight, to guide"
-                }
+                "participle"
               ],
               "raw_tags": [
                 "in particular"
@@ -96930,6 +97113,8 @@
           ],
           "categories": [
             "Latin 2-syllable words",
+            "Latin entries with etymology trees",
+            "Latin entries with etymon",
             "Latin entries with incorrect language header",
             "Latin first and second declension participles",
             "Latin non-lemma forms",
@@ -96938,10 +97123,14 @@
             "Latin terms derived from Proto-Indo-European",
             "Latin terms derived from Proto-Italic",
             "Latin terms derived from the Proto-Indo-European root *h₃reǵ-",
+            "Latin terms inherited from Proto-Indo-European",
             "Latin terms inherited from Proto-Italic",
             "Latin terms with IPA pronunciation",
+            "Pages using etymon with no ID",
             "Pages with 2 entries",
-            "Pages with entries"
+            "Pages with entries",
+            "Pages with etymology trees",
+            "Pages with etymon"
           ],
           "forms": [
             {
@@ -97633,16 +97822,21 @@
               ]
             }
           ],
-          "etymology_text": "Perfect passive participle of regō (“to keep or lead straight, to guide”). Inherited from Proto-Italic *rektos, corresponding to Proto-Indo-European *h₃reǵtós (“having moved in a straight line”), from Proto-Indo-European *h₃reǵ- (“to straighten, direct”).",
+          "wikipedia": [
+            "Lachmann's law"
+          ],
+          "etymology_text": "Etymology tree\nProto-Indo-European *h₃reǵ-\nProto-Indo-European *-tós\nProto-Indo-European *h₃reǵtós\nProto-Italic *rektos\nLatin rēctus\nPerfect passive participle of regō (“to keep or lead straight, to guide”). Inherited from Proto-Italic *rektos, corresponding to Proto-Indo-European *h₃reǵtós (“having moved in a straight line”), from Proto-Indo-European *h₃reǵ- (“to straighten, direct”). The vowel is long because of Lachmann's law.",
           "etymology_templates": [
             {
-              "name": "root",
+              "name": "etymon",
               "args": {
                 "1": "la",
-                "2": "ine-pro",
-                "3": "*h₃reǵ-"
+                "title": "rēctus",
+                "2": ":inh",
+                "3": "itc-pro:*rektos",
+                "tree": "1"
               },
-              "expansion": ""
+              "expansion": "Etymology tree\nProto-Indo-European *h₃reǵ-\nProto-Indo-European *-tós\nProto-Indo-European *h₃reǵtós\nProto-Italic *rektos\nLatin rēctus\n[Appendix:Glossary#inherited|Inherited]] from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Proto-Italic\", \"term\" : \"*rektos\", \"status\" : \"ok\", \"lang\" : \"itc-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Latin\", \"term\" : \"rēctus\", \"status\" : \"ok\", \"lang\" : \"la\" }\" data-lang=\"la\" data-title=\"rēctus\">"
             },
             {
               "name": "inh",
@@ -98227,6 +98421,7 @@
             "Latin terms derived from Proto-Indo-European",
             "Latin terms derived from Proto-Italic",
             "Latin terms derived from the Proto-Indo-European root *dem-",
+            "Latin terms derived from the Proto-Indo-European word *dṓm",
             "Latin terms inherited from Proto-Indo-European",
             "Latin terms inherited from Proto-Italic",
             "Latin terms with IPA pronunciation",
@@ -103085,7 +103280,7 @@
             "Latin terms inherited from Proto-Indo-European",
             "Latin terms inherited from Proto-Italic",
             "Latin terms with IPA pronunciation",
-            "Pages with 71 entries",
+            "Pages with 74 entries",
             "Pages with entries",
             "Pages with etymon",
             "zom:Buildings"
@@ -103347,21 +103542,27 @@
               "form": "en",
               "tags": [
                 "alternative",
-                "Old-Latin"
+                "Latin",
+                "Old-Latin",
+                "archaic"
               ]
             },
             {
               "form": "endo",
               "tags": [
                 "alternative",
-                "Old-Latin"
+                "Latin",
+                "Old-Latin",
+                "archaic"
               ]
             },
             {
               "form": "indu",
               "tags": [
                 "alternative",
-                "Old-Latin"
+                "Latin",
+                "Old-Latin",
+                "archaic"
               ]
             }
           ]
@@ -103412,13 +103613,12 @@
               "categories": [
                 "Latin 2-syllable words",
                 "Latin adverbs",
-                "Latin entries referencing ambiguous etymons",
                 "Latin entries with etymology texts",
                 "Latin entries with etymology trees",
                 "Latin entries with etymon",
                 "Latin entries with incorrect language header",
                 "Latin lemmas",
-                "Latin terms suffixed with -e",
+                "Latin terms suffixed with -e (adverb)",
                 "Latin terms with IPA pronunciation",
                 "Latin terms with usage examples",
                 "Pages using etymon with no ID",
@@ -103481,7 +103681,7 @@
               "word": "festīnā lentē"
             }
           ],
-          "etymology_text": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nLatin -ē\nLatin lentē\nFrom lentus (“slow”) + -ē.",
+          "etymology_text": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nProto-Italic *-ēd\nOld Latin -ēd\nLatin -ē\nLatin lentē\nFrom lentus (“slow”) + -ē.",
           "etymology_templates": [
             {
               "name": "ety",
@@ -103490,11 +103690,11 @@
                 "title": "lentē",
                 "2": ":af",
                 "3": "lentus<t:slow>",
-                "4": "-ē",
+                "4": "-ē<id:adverb>",
                 "text": "+",
                 "tree": "1"
               },
-              "expansion": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nLatin -ē\nLatin lentē\n[Appendix:Glossary#inherited|Inherited]] from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Latin\", \"term\" : \"lentus\", \"status\" : \"ok\", \"lang\" : \"la\" }, { \"children\" : [ ], \"lang_name\" : \"Latin\", \"term\" : \"-ē\", \"status\" : \"ambiguous\", \"lang\" : \"la\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"Latin\", \"term\" : \"lentē\", \"status\" : \"ok\", \"lang\" : \"la\" }\" data-lang=\"la\" data-title=\"lentē\">\nFrom lentus (“slow”) + -ē."
+              "expansion": "Etymology tree\nProto-Indo-European *lent-\nProto-Indo-European *-os\nProto-Italic *lentos\nLatin lentus\nProto-Italic *-ēd\nOld Latin -ēd\nLatin -ē\nLatin lentē\n[Appendix:Glossary#inherited|Inherited]] from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Latin\", \"term\" : \"lentus\", \"status\" : \"ok\", \"lang\" : \"la\" }, { \"id\" : \"adverb\", \"children\" : [ { \"terms\" : [ { \"children\" : [ { \"terms\" : [ { \"children\" : [ ], \"lang_name\" : \"Proto-Italic\", \"term\" : \"*-ēd\", \"status\" : \"ok\", \"lang\" : \"itc-pro\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"lang_name\" : \"Old Latin\", \"term\" : \"-ēd\", \"status\" : \"inline\", \"lang\" : \"itc-ola\" } ], \"keyword_label\" : \"Inherited from\", \"keyword\" : \"inherited\" } ], \"status\" : \"ok\", \"lang_name\" : \"Latin\", \"term\" : \"-ē\", \"lang\" : \"la\" } ], \"keyword_label\" : \"From\", \"is_group\" : true, \"keyword\" : \"affix\" } ], \"lang_name\" : \"Latin\", \"term\" : \"lentē\", \"status\" : \"ok\", \"lang\" : \"la\" }\" data-lang=\"la\" data-title=\"lentē\">\nFrom lentus (“slow”) + -ē."
             }
           ],
           "sounds": [
@@ -107541,6 +107741,931 @@
                 "plural"
               ],
               "sense_index": "1.1-4"
+            }
+          ]
+        }
+      },
+      {
+        "url": "https://kaikki.org/plwiktionary/All%20languages%20combined/meaning/p/po/pobiec.html",
+        "download_url": "https://kaikki.org/plwiktionary/All%20languages%20combined/meaning/p/po/pobiec.jsonl",
+        "json": {
+          "word": "pobiec",
+          "pos": "verb",
+          "lang_code": "pl",
+          "lang": "język polski",
+          "pos_title": "czasownik",
+          "senses": [
+            {
+              "glosses": [
+                "przemieścić się do przodu, biegnąc"
+              ],
+              "sense_index": "1.1",
+              "examples": [
+                {
+                  "text": "Dzieci pobiegły przez pole, by powitać księdza.",
+                  "bold_text_offsets": [
+                    [
+                      7,
+                      15
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "glosses": [
+                "pospiesznie udać się gdzieś lub po kogoś"
+              ],
+              "tags": [
+                "colloquial"
+              ],
+              "sense_index": "1.2",
+              "examples": [
+                {
+                  "text": "Pobiegnij po tatę i powiedz mu, że zepsuł się kran.",
+                  "bold_text_offsets": [
+                    [
+                      0,
+                      9
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "glosses": [
+                "(o spojrzeniu, myślach itp.) zwrócić się ku czemuś lub komuś"
+              ],
+              "tags": [
+                "literary"
+              ],
+              "sense_index": "1.3",
+              "examples": [
+                {
+                  "text": "Jego spojrzenie pobiegło w stronę zbliżającej się grupy urzędników.",
+                  "bold_text_offsets": [
+                    [
+                      16,
+                      24
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "glosses": [
+                "(o drogach, szlakach, ulicach itp.) zostać wytyczonym w pewnym kierunku"
+              ],
+              "sense_index": "1.4",
+              "examples": [
+                {
+                  "text": "Nowa autostrada pobiegnie ku granicy z Białorusią.",
+                  "bold_text_offsets": [
+                    [
+                      16,
+                      25
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "categories": [
+            "polski (indeks)"
+          ],
+          "tags": [
+            "intransitive",
+            "perfective"
+          ],
+          "translations": [
+            {
+              "lang_code": "en",
+              "lang": "angielski",
+              "word": "run",
+              "sense_index": "1.1"
+            },
+            {
+              "lang_code": "be",
+              "lang": "białoruski",
+              "word": "пабегчы",
+              "sense_index": "1.1"
+            },
+            {
+              "lang_code": "fr",
+              "lang": "francuski",
+              "word": "courir",
+              "sense_index": "1.1"
+            },
+            {
+              "lang_code": "ru",
+              "lang": "rosyjski",
+              "word": "побежать",
+              "sense_index": "1.1"
+            },
+            {
+              "lang_code": "en",
+              "lang": "angielski",
+              "word": "turn",
+              "sense_index": "1.3"
+            },
+            {
+              "lang_code": "fr",
+              "lang": "francuski",
+              "word": "courir",
+              "sense_index": "1.2"
+            }
+          ],
+          "sounds": [
+            {
+              "ipa": "ˈpɔbʲjɛt͡s"
+            },
+            {
+              "ipa": "pobʹi ̯ec",
+              "tags": [
+                "Slavic-alphabet"
+              ]
+            },
+            {
+              "audio": "Pl-pobiec.ogg",
+              "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pl-pobiec.ogg",
+              "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Pl-pobiec.ogg/Pl-pobiec.ogg.mp3"
+            }
+          ],
+          "related": [
+            {
+              "word": "pobiegnięcie",
+              "tags": [
+                "noun",
+                "neuter"
+              ]
+            },
+            {
+              "word": "bieganie",
+              "tags": [
+                "neuter"
+              ]
+            }
+          ],
+          "proverbs": [
+            {
+              "word": "pobiec świńskim truchtem"
+            }
+          ],
+          "synonyms": [
+            {
+              "word": "pognać",
+              "sense_index": "1.1"
+            },
+            {
+              "word": "polecieć",
+              "tags": [
+                "colloquial"
+              ],
+              "sense_index": "1.1"
+            },
+            {
+              "word": "popędzić",
+              "sense_index": "1.1"
+            },
+            {
+              "word": "pognać",
+              "sense_index": "1.2"
+            },
+            {
+              "word": "polecieć",
+              "tags": [
+                "colloquial"
+              ],
+              "sense_index": "1.2"
+            },
+            {
+              "word": "popędzić",
+              "sense_index": "1.2"
+            },
+            {
+              "word": "zwrócić się",
+              "sense_index": "1.3"
+            },
+            {
+              "word": "skierować się",
+              "sense_index": "1.3"
+            }
+          ],
+          "forms": [
+            {
+              "form": "pobiegnę",
+              "tags": [
+                "singular",
+                "first-person",
+                "future"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegniesz",
+              "tags": [
+                "singular",
+                "second-person",
+                "future"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegnie",
+              "tags": [
+                "singular",
+                "third-person",
+                "future"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegniemy",
+              "tags": [
+                "plural",
+                "first-person",
+                "future"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegniecie",
+              "tags": [
+                "plural",
+                "second-person",
+                "future"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegną",
+              "tags": [
+                "plural",
+                "third-person",
+                "future"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłem",
+              "tags": [
+                "singular",
+                "first-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłeś",
+              "tags": [
+                "singular",
+                "second-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegł",
+              "tags": [
+                "singular",
+                "third-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegliśmy",
+              "tags": [
+                "plural",
+                "first-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegliście",
+              "tags": [
+                "plural",
+                "second-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegli",
+              "tags": [
+                "plural",
+                "third-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłam",
+              "tags": [
+                "singular",
+                "first-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłaś",
+              "tags": [
+                "singular",
+                "second-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegła",
+              "tags": [
+                "singular",
+                "third-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłyśmy",
+              "tags": [
+                "plural",
+                "first-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłyście",
+              "tags": [
+                "plural",
+                "second-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegły",
+              "tags": [
+                "plural",
+                "third-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłom",
+              "tags": [
+                "singular",
+                "first-person",
+                "past",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłoś",
+              "tags": [
+                "singular",
+                "second-person",
+                "past",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegło",
+              "tags": [
+                "singular",
+                "third-person",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "niech pobiegnę",
+              "tags": [
+                "singular",
+                "first-person",
+                "imperative"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegnij",
+              "tags": [
+                "singular",
+                "second-person",
+                "imperative"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "niech pobiegnie",
+              "tags": [
+                "singular",
+                "third-person",
+                "imperative"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegnijmy",
+              "tags": [
+                "plural",
+                "first-person",
+                "imperative"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegnijcie",
+              "tags": [
+                "plural",
+                "second-person",
+                "imperative"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "niech pobiegną",
+              "tags": [
+                "plural",
+                "third-person",
+                "imperative"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłszy",
+              "tags": [
+                "singular",
+                "plural",
+                "first-person",
+                "second-person",
+                "third-person",
+                "anterior",
+                "adverbial",
+                "participle"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegnięcie",
+              "tags": [
+                "singular",
+                "plural",
+                "first-person",
+                "second-person",
+                "third-person",
+                "gerund"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "niepobiegnięcie",
+              "tags": [
+                "singular",
+                "plural",
+                "first-person",
+                "second-person",
+                "third-person",
+                "gerund"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłem był",
+              "tags": [
+                "singular",
+                "first-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłeś był",
+              "tags": [
+                "singular",
+                "second-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegł był",
+              "tags": [
+                "singular",
+                "third-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegliśmy byli",
+              "tags": [
+                "plural",
+                "first-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegliście byli",
+              "tags": [
+                "plural",
+                "second-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegli byli",
+              "tags": [
+                "plural",
+                "third-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłam była",
+              "tags": [
+                "singular",
+                "first-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłaś była",
+              "tags": [
+                "singular",
+                "second-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegła była",
+              "tags": [
+                "singular",
+                "third-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłyśmy były",
+              "tags": [
+                "plural",
+                "first-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłyście były",
+              "tags": [
+                "plural",
+                "second-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegły były",
+              "tags": [
+                "plural",
+                "third-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłom było",
+              "tags": [
+                "singular",
+                "first-person",
+                "pluperfect",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłoś było",
+              "tags": [
+                "singular",
+                "second-person",
+                "pluperfect",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegło było",
+              "tags": [
+                "singular",
+                "third-person",
+                "pluperfect"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegnięto",
+              "tags": [
+                "singular",
+                "plural",
+                "first-person",
+                "second-person",
+                "third-person",
+                "impersonal",
+                "past"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłbym",
+              "tags": [
+                "singular",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłbym pobiegł",
+              "tags": [
+                "singular",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłbyś",
+              "tags": [
+                "singular",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłbyś pobiegł",
+              "tags": [
+                "singular",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłby",
+              "tags": [
+                "singular",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłby pobiegł",
+              "tags": [
+                "singular",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobieglibyśmy",
+              "tags": [
+                "plural",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "bylibyśmy pobiegli",
+              "tags": [
+                "plural",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobieglibyście",
+              "tags": [
+                "plural",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "bylibyście pobiegli",
+              "tags": [
+                "plural",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegliby",
+              "tags": [
+                "plural",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byliby pobiegli",
+              "tags": [
+                "plural",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłabym",
+              "tags": [
+                "singular",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłabym pobiegła",
+              "tags": [
+                "singular",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłabyś",
+              "tags": [
+                "singular",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłabyś pobiegła",
+              "tags": [
+                "singular",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłaby",
+              "tags": [
+                "singular",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłaby pobiegła",
+              "tags": [
+                "singular",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłybyśmy",
+              "tags": [
+                "plural",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłybyśmy pobiegły",
+              "tags": [
+                "plural",
+                "first-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłybyście",
+              "tags": [
+                "plural",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłybyście pobiegły",
+              "tags": [
+                "plural",
+                "second-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłyby",
+              "tags": [
+                "plural",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłyby pobiegły",
+              "tags": [
+                "plural",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłobym",
+              "tags": [
+                "singular",
+                "first-person",
+                "conditional",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłobym pobiegło",
+              "tags": [
+                "singular",
+                "first-person",
+                "conditional",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłobyś",
+              "tags": [
+                "singular",
+                "second-person",
+                "conditional",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłobyś pobiegło",
+              "tags": [
+                "singular",
+                "second-person",
+                "conditional",
+                "potential",
+                "rare"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "pobiegłoby",
+              "tags": [
+                "singular",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
+            },
+            {
+              "form": "byłoby pobiegło",
+              "tags": [
+                "singular",
+                "third-person",
+                "conditional"
+              ],
+              "sense_index": "1"
             }
           ]
         }
@@ -116112,7 +117237,7 @@
                 "Albanian entries with incorrect language header",
                 "Albanian non-lemma forms",
                 "Albanian verb forms",
-                "Pages with 30 entries",
+                "Pages with 31 entries",
                 "Pages with entries"
               ]
             }
