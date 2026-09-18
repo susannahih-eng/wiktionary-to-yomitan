@@ -1,0 +1,500 @@
+{
+  "dobrnąć": {
+    "dobrnę": {
+      "verb": [
+        "extracted",
+        [
+          "singular future"
+        ]
+      ]
+    },
+    "dobrniemy": {
+      "verb": [
+        "extracted",
+        [
+          "plural future"
+        ]
+      ]
+    },
+    "dobrniesz": {
+      "verb": [
+        "extracted",
+        [
+          "singular future"
+        ]
+      ]
+    },
+    "dobrniecie": {
+      "verb": [
+        "extracted",
+        [
+          "plural future"
+        ]
+      ]
+    },
+    "dobrnie": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular future"
+        ]
+      ]
+    },
+    "dobrną": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural future"
+        ]
+      ]
+    },
+    "dobrnie się": {
+      "verb": [
+        "extracted",
+        [
+          "future impersonal"
+        ]
+      ]
+    },
+    "dobrnąłem": {
+      "verb": [
+        "extracted",
+        [
+          "singular masculine past"
+        ]
+      ]
+    },
+    "dobrnęłam": {
+      "verb": [
+        "extracted",
+        [
+          "singular feminine past"
+        ]
+      ]
+    },
+    "dobrnęłom": {
+      "verb": [
+        "extracted",
+        [
+          "singular neuter past"
+        ]
+      ]
+    },
+    "dobrnęliśmy": {
+      "verb": [
+        "extracted",
+        [
+          "plural past virile"
+        ]
+      ]
+    },
+    "dobrnęłyśmy": {
+      "verb": [
+        "extracted",
+        [
+          "plural past nonvirile"
+        ]
+      ]
+    },
+    "dobrnąłeś": {
+      "verb": [
+        "extracted",
+        [
+          "singular masculine past"
+        ]
+      ]
+    },
+    "dobrnęłaś": {
+      "verb": [
+        "extracted",
+        [
+          "singular feminine past"
+        ]
+      ]
+    },
+    "dobrnęłoś": {
+      "verb": [
+        "extracted",
+        [
+          "singular neuter past"
+        ]
+      ]
+    },
+    "dobrnęliście": {
+      "verb": [
+        "extracted",
+        [
+          "plural past virile"
+        ]
+      ]
+    },
+    "dobrnęłyście": {
+      "verb": [
+        "extracted",
+        [
+          "plural past nonvirile"
+        ]
+      ]
+    },
+    "dobrnął": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular masculine past"
+        ]
+      ]
+    },
+    "dobrnęła": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular feminine past"
+        ]
+      ]
+    },
+    "dobrnęło": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular neuter past"
+        ]
+      ]
+    },
+    "dobrnęli": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural past virile"
+        ]
+      ]
+    },
+    "dobrnęły": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural past nonvirile"
+        ]
+      ]
+    },
+    "dobrnięto": {
+      "verb": [
+        "extracted",
+        [
+          "past impersonal"
+        ]
+      ]
+    },
+    "dobrnąłbym": {
+      "verb": [
+        "extracted",
+        [
+          "singular masculine conditional"
+        ]
+      ]
+    },
+    "bym dobrnął": {
+      "verb": [
+        "extracted",
+        [
+          "singular masculine conditional"
+        ]
+      ]
+    },
+    "dobrnęłabym": {
+      "verb": [
+        "extracted",
+        [
+          "singular feminine conditional"
+        ]
+      ]
+    },
+    "bym dobrnęła": {
+      "verb": [
+        "extracted",
+        [
+          "singular feminine conditional"
+        ]
+      ]
+    },
+    "dobrnęłobym": {
+      "verb": [
+        "extracted",
+        [
+          "singular neuter conditional"
+        ]
+      ]
+    },
+    "bym dobrnęło": {
+      "verb": [
+        "extracted",
+        [
+          "singular neuter conditional"
+        ]
+      ]
+    },
+    "dobrnęlibyśmy": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional virile"
+        ]
+      ]
+    },
+    "byśmy dobrnęli": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional virile"
+        ]
+      ]
+    },
+    "dobrnęłybyśmy": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional nonvirile"
+        ]
+      ]
+    },
+    "byśmy dobrnęły": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional nonvirile"
+        ]
+      ]
+    },
+    "dobrnąłbyś": {
+      "verb": [
+        "extracted",
+        [
+          "singular masculine conditional"
+        ]
+      ]
+    },
+    "byś dobrnął": {
+      "verb": [
+        "extracted",
+        [
+          "singular masculine conditional"
+        ]
+      ]
+    },
+    "dobrnęłabyś": {
+      "verb": [
+        "extracted",
+        [
+          "singular feminine conditional"
+        ]
+      ]
+    },
+    "byś dobrnęła": {
+      "verb": [
+        "extracted",
+        [
+          "singular feminine conditional"
+        ]
+      ]
+    },
+    "dobrnęłobyś": {
+      "verb": [
+        "extracted",
+        [
+          "singular neuter conditional"
+        ]
+      ]
+    },
+    "byś dobrnęło": {
+      "verb": [
+        "extracted",
+        [
+          "singular neuter conditional"
+        ]
+      ]
+    },
+    "dobrnęlibyście": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional virile"
+        ]
+      ]
+    },
+    "byście dobrnęli": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional virile"
+        ]
+      ]
+    },
+    "dobrnęłybyście": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional nonvirile"
+        ]
+      ]
+    },
+    "byście dobrnęły": {
+      "verb": [
+        "extracted",
+        [
+          "plural conditional nonvirile"
+        ]
+      ]
+    },
+    "dobrnąłby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular masculine conditional"
+        ]
+      ]
+    },
+    "by dobrnął": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular masculine conditional"
+        ]
+      ]
+    },
+    "dobrnęłaby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular feminine conditional"
+        ]
+      ]
+    },
+    "by dobrnęła": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular feminine conditional"
+        ]
+      ]
+    },
+    "dobrnęłoby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular neuter conditional"
+        ]
+      ]
+    },
+    "by dobrnęło": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular neuter conditional"
+        ]
+      ]
+    },
+    "dobrnęliby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional virile"
+        ]
+      ]
+    },
+    "by dobrnęli": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional virile"
+        ]
+      ]
+    },
+    "dobrnęłyby": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional nonvirile"
+        ]
+      ]
+    },
+    "by dobrnęły": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural conditional nonvirile"
+        ]
+      ]
+    },
+    "dobrnięto by": {
+      "verb": [
+        "extracted",
+        [
+          "conditional impersonal"
+        ]
+      ]
+    },
+    "niech dobrnę": {
+      "verb": [
+        "extracted",
+        [
+          "singular imperative"
+        ]
+      ]
+    },
+    "dobrnijmy": {
+      "verb": [
+        "extracted",
+        [
+          "plural imperative"
+        ]
+      ]
+    },
+    "dobrnij": {
+      "verb": [
+        "extracted",
+        [
+          "singular imperative"
+        ]
+      ]
+    },
+    "dobrnijcie": {
+      "verb": [
+        "extracted",
+        [
+          "plural imperative"
+        ]
+      ]
+    },
+    "niech dobrnie": {
+      "verb": [
+        "extracted",
+        [
+          "third-person singular imperative"
+        ]
+      ]
+    },
+    "niech dobrną": {
+      "verb": [
+        "extracted",
+        [
+          "third-person plural imperative"
+        ]
+      ]
+    },
+    "dobrnąwszy": {
+      "verb": [
+        "extracted",
+        [
+          "participle adverbial anterior"
+        ]
+      ]
+    },
+    "dobrnięcie": {
+      "verb": [
+        "extracted",
+        [
+          "noun-from-verb"
+        ]
+      ]
+    }
+  }
+}
